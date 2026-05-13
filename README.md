@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saransh Gupta
 
-🎓 B.Tech Student   
+🎓 B.Tech Student    
 💻 Passionate Frontend & MERN Stack Developer  
 🌱 Currently learning Python with Django  
 🚀 Interested in Web Development  
