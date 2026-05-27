@@ -1,18 +1,137 @@
-# 💫 About Me:
-# Hi 👋, I'm Saransh Gupta<br><br>🎓 B.Tech Student  <br>💻 Passionate Frontend & MERN Stack Developer  <br>🌱 Currently learning MERN Stack  <br>🚀 Interested in Web Development  <br><br>## 👨‍💻 Me<br><br>- Passionate about creating responsive and user-friendly websites<br>- Continuously improving coding and problem-solving skills<br>- Learning Full Stack Development<br>- Interested in Frontend and MERN technologies<br>- Building real-world projects
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Saransh%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Developer%20|%20Full%20Stack%20Learner&descAlignY=60"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saransh-gupta-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranshgupta807@gmail.com) 
+# Hi 👋, I'm Saransh Gupta
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=saranshgupta-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=saranshgupta-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=saranshgupta-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Frontend Developer | MERN Developer | Full Stack Learner
+
+### 🌟 Open Source Contributor
+
+<p align="center">
+  Welcome to My GitHub Profile 💻
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=B.Tech+Student+(2024-2027);MERN+Stack+Learner;Frontend+Developer;Java+DSA+Learner;Open+Source+Contributor;Building+Amazing+Websites+🚀;Always+Learning+New+Things+💻" />
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=saranshgupta-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🌐 Passionate about Web Development  
+- ☕ Java Language & Java DSA Learner  
+- 🚀 Currently Learning MERN Stack  
+- 💡 Interested in Open Source Contribution  
+- 🧠 Problem Solving & DSA Enthusiast  
+- 🎨 Frontend Development Learner  
+- 🔥 Learning Backend Development  
+- 💻 I like to build amazing websites and web applications  
+- 📚 Love exploring new tech content  
+
+<br><br>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/saransh-gupta-dev/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+
+<a href="mailto:saranshgupta807@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="55" />
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,django,mysql,sqlite,git,github,vscode,idea,jira&perline=7" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saranshgupta-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saranshgupta-dev&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshgupta-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saranshgupta-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/saranshgupta-dev/saranshgupta-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|----------|-------------|-------------|
+| 🍽️ Canteen-Webapp | Online canteen management system | Java, Servlet, MySQL |
+| 🏠 Hexashop | Real Estate Buy or Rent platform | Python, Django, SQLite |
+| 🐍 Snake Game | Classic snake game with interactive UI | HTML, CSS, JavaScript |
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saranshgupta-dev&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile ⭐
+
+### 🚀 Keep Coding & Keep Growing 🚀
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
