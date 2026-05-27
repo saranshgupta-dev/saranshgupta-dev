@@ -2,15 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Saransh%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Developer%20|%20Full%20Stack%20Learner&descAlignY=60"/>
 
+
 # Hi 👋, I'm Saransh Gupta
 
-### 🚀 Frontend Developer | MERN Developer | Full Stack Learner
+### 🚀 Python - Django Developer | Problem Solving | Open Source Learner
 
+### 🌟 Welcome to My GitHub Profile 💻
 ### 🌟 Open Source Contributor
-
-<p align="center">
-  Welcome to My GitHub Profile 💻
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=B.Tech+Student+(2024-2027);MERN+Stack+Learner;Frontend+Developer;Java+DSA+Learner;Open+Source+Contributor;Building+Amazing+Websites+🚀;Always+Learning+New+Things+💻" />
@@ -41,6 +39,11 @@
 # 🌐 Connect With Me
 
 <p align="left">
+
+<a href="https://github.com/saranshgupta-dev" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="55" />
+</a>
+
 <a href="https://www.linkedin.com/in/saransh-gupta-dev/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
@@ -48,15 +51,28 @@
 <a href="mailto:saranshgupta807@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
+
 </p>
 
 ---
 
 # 🚀 Tech Stack
 
-<div align="center">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,django,mysql,sqlite,git,github,vscode,idea,jira&perline=7" />
+<img src="https://skillicons.dev/icons?i=html" height="65"/>
+<img src="https://skillicons.dev/icons?i=css" height="65"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="65"/>
+<img src="https://skillicons.dev/icons?i=java" height="65"/>
+<img src="https://skillicons.dev/icons?i=python" height="65"/>
+<img src="https://skillicons.dev/icons?i=django" height="65"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="65"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="65"/>
+<img src="https://skillicons.dev/icons?i=git" height="65"/>
+<img src="https://skillicons.dev/icons?i=github" height="65"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="65"/>
+<img src="https://skillicons.dev/icons?i=idea" height="65"/>
+<img src="https://skillicons.dev/icons?i=jira" height="65"/>
 
 </div>
 
@@ -80,23 +96,14 @@
 
 </div>
 
+
 ---
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saranshgupta-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 📈 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saranshgupta-dev/saranshgupta-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=saranshgupta-dev&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
@@ -135,3 +142,4 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+
