@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Saransh%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Developer%20|%20Full%20Stack%20Learner&descAlignY=60"/>
 
 
-# Hi 👋, I'm Saransh Gupta
+# Hi 👋, I'm Saransh 
 
 ### 🚀 Python - Django Developer | Problem Solving | Open Source Learner
 
